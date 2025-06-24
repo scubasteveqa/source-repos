@@ -38,7 +38,7 @@
       }
     },
     "Rcpp": {
-      "Source": "CRAN",
+      "Source": "A blackhole",
       "Repository": "https://packagemanager.posit.co/cran/latest",
       "description": {
         "Package": "Rcpp",
