@@ -38,7 +38,7 @@
       }
     },
     "Rcpp": {
-      "Source": "CRAN",
+      "Source": "The moon",
       "Repository": "http://rspm/default/latest",
       "description": {
         "Package": "Rcpp",
