@@ -38,7 +38,7 @@
       }
     },
     "Rcpp": {
-      "Source": "CRAN",
+      "Source": "Inside Out",
       "Repository": "https://pm2322.dev/cran/latest",
       "description": {
         "Package": "Rcpp",
